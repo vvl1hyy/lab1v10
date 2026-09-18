@@ -16,3 +16,4 @@
 1. Клонувати репозиторій:
    ```bash
    git clone [https://github.com/vvl1hyy/lab1v10.git](https://github.com/vvl1hyy/lab1v10.git)
+<img width="812" height="70" alt="image" src="https://github.com/user-attachments/assets/039d0e26-1949-42cc-8f08-e7bca1be729f" />
