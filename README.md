@@ -7,7 +7,7 @@
 Консольний застосунок на C# (.NET SDK), що демонструє роботу з класом `Computer`, приватними полями, публічними властивостями, конструктором та методом аналізу продуктивності.
 
 ## Результат роботи програми
-![Результат виконання]<img width="803" height="70" alt="image" src="https://github.com/user-attachments/assets/e16a123c-9547-41d4-8005-c10603a5c1b0" />
+<img width="803" height="70" alt="image" src="https://github.com/user-attachments/assets/e16a123c-9547-41d4-8005-c10603a5c1b0" />
 
 
 ---
